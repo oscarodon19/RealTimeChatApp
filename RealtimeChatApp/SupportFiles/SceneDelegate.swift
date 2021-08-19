@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  RealtimeChatApp
+//  RealTimeChatApp
 //
 //  Created by Oscar.Odon on 19/08/2021.
 //

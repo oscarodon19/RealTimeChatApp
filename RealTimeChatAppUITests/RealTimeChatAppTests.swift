@@ -1,14 +1,14 @@
 //
-//  RealtimeChatAppTests.swift
-//  RealtimeChatAppTests
+//  RealTimeChatAppTests.swift
+//  RealTimeChatAppTests
 //
 //  Created by Oscar.Odon on 19/08/2021.
 //
 
 import XCTest
-@testable import RealtimeChatApp
+@testable import RealTimeChatApp
 
-class RealtimeChatAppTests: XCTestCase {
+class RealTimeChatAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
