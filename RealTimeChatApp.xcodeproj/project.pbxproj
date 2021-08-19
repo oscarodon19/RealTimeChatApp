@@ -114,7 +114,7 @@
 				5F8F15D526CEF82E005129F4 /* SupportFiles */,
 				5F8F15D426CEF702005129F4 /* Resources */,
 				5F8F15D326CEF6ED005129F4 /* Views */,
-				5F8F15D226CEF6E0005129F4 /* Controller */,
+				5F8F15D226CEF6E0005129F4 /* Controllers */,
 				5F8F15B026CEF45E005129F4 /* Info.plist */,
 			);
 			path = RealTimeChatApp;
@@ -138,7 +138,7 @@
 			path = RealTimeChatAppUITests;
 			sourceTree = "<group>";
 		};
-		5F8F15D226CEF6E0005129F4 /* Controller */ = {
+		5F8F15D226CEF6E0005129F4 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				5F8F15A626CEF45B005129F4 /* ConversationsViewController.swift */,
@@ -149,7 +149,7 @@
 				5F8F15DF26CEFB52005129F4 /* NewConversationViewController.swift */,
 				5F8F15E126CEFB69005129F4 /* ProfileViewController.swift */,
 			);
-			path = Controller;
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 		5F8F15D326CEF6ED005129F4 /* Views */ = {
